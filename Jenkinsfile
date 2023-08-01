@@ -1,4 +1,4 @@
-# Jenkinsfile - Declarative Jenkins pipeline script for your CI/CD process.
+# Jenkinsfile  - Declarative Jenkins pipeline script for your CI/CD process.
 
 pipeline {
     agent any
